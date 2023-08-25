@@ -1,2 +1,2 @@
 # HT1
-Statistical Learning I
+Statistical Learning II
